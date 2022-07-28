@@ -3,7 +3,7 @@ import string
 import time
 from datetime import date
 
-BASE_URL = "https://urlshortenpython.shui2202/url"
+BASE_URL = "https://url-shortener-python.herokuapp"
 
 def random_str(n=7):
   result = ""
